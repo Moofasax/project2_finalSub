@@ -1,0 +1,1 @@
+In order to use this application locally, you must enable CORS on your browser since it reads dumby data from csv files.
